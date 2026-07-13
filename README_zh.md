@@ -83,14 +83,18 @@ npx skills add composable-tu/tech-writing
 ## 仓库结构
 
 ```zsh
-├── SKILL.md                      # 包含完整方法论的主 Skill 文件
 ├── README.md                     # 英文版说明
 ├── README_zh.md                  # 中文版说明（本文件）
-└── knowledge/
-    ├── source_article.md         # 原文结构化摘要
-    ├── methodology.md            # 提炼后的方法论框架
-    ├── checklist.md              # 写作与审校检查清单
-    └── distillation_notes.md     # 蒸馏说明与取舍记录
+├── LICENSE                       # 许可证
+├── .gitignore                    # Git 忽略规则
+└── skills/
+    └── tech-writing/
+        ├── SKILL.md              # 包含完整方法论的主 Skill 文件
+        └── knowledge/
+            ├── source_article.md # 原文结构化摘要
+            ├── methodology.md    # 提炼后的方法论框架
+            ├── checklist.md      # 写作与审校检查清单
+            └── distillation_notes.md # 蒸馏说明与取舍记录
 ```
 
 ## 许可证

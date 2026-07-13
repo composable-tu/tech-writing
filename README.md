@@ -85,14 +85,18 @@ Without any skill:
 ## Repository Structure
 
 ```zsh
-├── SKILL.md                      # Main skill file with full methodology
 ├── README.md                     # This file
 ├── README_zh.md                  # Chinese version of this README
-└── knowledge/
-    ├── source_article.md         # Structured summary of the source article
-    ├── methodology.md            # Distilled methodology framework
-    ├── checklist.md              # Writing and review checklist
-    └── distillation_notes.md     # Notes on what was distilled and why
+├── LICENSE                       # License
+├── .gitignore                    # Git ignore rules
+└── skills/
+    └── tech-writing/
+        ├── SKILL.md              # Main skill file with full methodology
+        └── knowledge/
+            ├── source_article.md # Structured summary of the source article
+            ├── methodology.md    # Distilled methodology framework
+            ├── checklist.md      # Writing and review checklist
+            └── distillation_notes.md # Notes on what was distilled and why
 ```
 
 ## License
