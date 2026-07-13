@@ -1,6 +1,7 @@
 ---
 name: "tech-writing"
 description: "Teaches the technical writing methodology from 'How to Write Technical Texts'. Invoke when user needs to write, review, or improve technical documentation, articles, tutorials, or code examples."
+license: "CC-BY-NC-SA-4.0"
 ---
 
 # Technical Writing Methodology
