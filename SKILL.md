@@ -1,5 +1,5 @@
 ---
-name: "tech-writing-methodology"
+name: "tech-writing"
 description: "Teaches the technical writing methodology from 'How to Write Technical Texts'. Invoke when user needs to write, review, or improve technical documentation, articles, tutorials, or code examples."
 ---
 
