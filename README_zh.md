@@ -55,7 +55,7 @@ npx skills add composable-tu/tech-writing
 >
 > 每个工具都有自己的配置文件。版本升级、配置维护、工具之间的兼容性问题，消耗了大量开发时间。
 >
-> 202026 年 3 月，VoidZero 团队正式开源了 Vite Plus。项目由 Evan You（Vue.js 作者）、Long Yinan 等业界专家共同维护，基于 MIT 许可证发布。Vite Plus 的目标很简单：用一个工具替代上述所有工具，让开发者专注于编写代码，而不是配置工具链。
+> 2026 年 3 月，VoidZero 团队正式开源了 Vite Plus。项目由 Evan You（Vue.js 作者）、Long Yinan 等业界专家共同维护，基于 MIT 许可证发布。Vite Plus 的目标很简单：用一个工具替代上述所有工具，让开发者专注于编写代码，而不是配置工具链。
 >
 > Vite Plus 将整个开发流程所需的工具统一到一个命令行界面：
 >
