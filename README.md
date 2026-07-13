@@ -2,7 +2,7 @@
 
 [中文 Readme](./README_zh.md)
 
-A reusable skill that teaches the technical writing methodology proposed in [*How to Write Technical Texts*](https://azat.io/en/blog/how-to-write-technical-texts) by Azat S.
+A reusable Agent Skill. Based on the technical writing methodology proposed by Azat S. in [*How to Write Technical Texts*](https://azat.io/en/blog/how-to-write-technical-texts), it helps you and your AI Agent create, review, and improve clear, concise, and easy-to-understand technical articles, engineering documentation, and tutorials.
 
 - Source article: https://azat.io/en/blog/how-to-write-technical-texts
 
