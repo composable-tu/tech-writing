@@ -1,6 +1,6 @@
 # Tech Writing Skill
 
-一个可复用的 Skill，教授 Azat S. 在[《How to Write Technical Texts》](https://azat.io/en/blog/how-to-write-technical-texts)中提出的技术写作方法论。
+一个可复用的 Agent Skill。基于 Azat S. 在[《How to Write Technical Texts》](https://azat.io/en/blog/how-to-write-technical-texts)中提出的技术写作方法论，帮助你和 AI Agent 创建、审查和改进清晰、简洁、易读的技术文章、工程文档和教程。
 
 - 原文链接：https://azat.io/en/blog/how-to-write-technical-texts
 
